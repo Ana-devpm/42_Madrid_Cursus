@@ -1,3 +1,6 @@
 [submodule "0_Milestone"]
 	path = 0_Milestone
 	url = git@github.com:Ana-devpm/0_Milestone.git
+[submodule "1_Milestone"]
+	path = 1_Milestone
+	url = git@github.com:Ana-devpm/1_Milestone.git
